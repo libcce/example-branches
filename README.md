@@ -1,7 +1,7 @@
 ex-branches blue
 ===========
 
-It is :cookie time!
+It is :cookie: time!
 
 This repository contains several commits on `master` branch and two on feature branches and helps demonstrate branching and merging Git commands.
 
